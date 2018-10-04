@@ -1,5 +1,2 @@
-# NodeJS Master Class Homework assignment 1
-
-This is the Homework submission for Pirple NodeJs masterclass assignment 1.
-
-The server responds with the message Hello World! @ http://localhost:3000/hello and @ https://localhost:3001/hello 
+# NodeJS-masterclass-Assignment2
+>>>>>>> 87950cc191b0f3773c7082c2fad51f492dca66c6
